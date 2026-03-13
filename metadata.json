@@ -1,0 +1,5 @@
+{
+  "name": "Il Tonno Rosso - Cucina Tipica Italiana",
+  "description": "Authentieke Sardijnse en Italiaanse gerechten in het hart van Zeddam. Ontdek de passie van Daniela en Denis.",
+  "requestFramePermissions": ["geolocation"]
+}
